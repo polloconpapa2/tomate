@@ -9,8 +9,10 @@ public class Ejercicio5 {
         char letra5 = 'a';
         char letra6 = 'n';
         char letra7 = 'a';
+
+        String miPalabra =  letra1 + "" + letra2 + "" +  letra3 + "" + letra4 + "" + letra5 +"" + letra6 +"" + letra7;
         
-        System.out.println("Todas juntas: " + letra1 + letra2 +  letra3 + letra4 + letra5 + letra6 + letra7);
+        System.out.println("Todas juntas: " +miPalabra);
 
     
 }
