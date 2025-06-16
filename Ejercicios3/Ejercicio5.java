@@ -11,7 +11,7 @@ public class Ejercicio5 {
         
 
         double promedio = ( largo * ancho );
-        System.out.println("el promedio de 2 numeros es : " +promedio);
+        System.out.println("elarea del rectangulo es : " +promedio);
         
     }
     
